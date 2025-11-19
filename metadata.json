@@ -1,0 +1,5 @@
+{
+  "name": "Elecciones Consejo Centro CSMA",
+  "description": "Una aplicación web para gestionar y llevar a cabo la elección de los representantes del profesorado en el consejo de centro del CSMA. Los administradores pueden gestionar candidatos y votantes, mientras que los profesores pueden iniciar sesión con su correo electrónico corporativo para votar una vez por un máximo de nueve candidatos. La aplicación proporciona resultados en tiempo real y puede generar un resumen de la elección utilizando Gemini.",
+  "requestFramePermissions": []
+}
